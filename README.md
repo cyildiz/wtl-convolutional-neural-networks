@@ -6,7 +6,7 @@ Bu **giriş seviyesinde** bir bootcamptir ve **convolutional neural network** ko
 Gerekli **ön bilgiler** şunlardır: 
 - Programlama (giriş seviyesinde)
 - Lineer cebir (matris çarpımı)
-- Neural Networks bootcamp'inin tamamlanmış olması önerilir.
+- WTL - Neural Networks bootcamp'inin tamamlanmış olması önerilir.
 
 ## Konu Başlıkları
 Tüm konular matematik temelleri ve kod uygulaması ile birlikte işlenecektir.
